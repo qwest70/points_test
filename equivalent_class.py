@@ -13,7 +13,6 @@ def test_equivalent():
         count += 1
     return count
 
-print(test_equivalent())
 if test_equivalent() == 4:
     print('Test equivalent class - Passed')
 else:
