@@ -19,6 +19,6 @@ def test_border():
 
 
 if test_border() == 6:
-    print('Test equivalent class - Passed')
+    print('Test boundary value - Passed')
 else:
-    print('Test equivalent class - False')
+    print('Test boundary value - False')
