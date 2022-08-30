@@ -5,5 +5,5 @@ def digit(message):
         if d.isdigit():
             print()
             break
-        print('ОШИБКА: можно вводить только цифры.')
+        print('ОШИБКА: можно вводить только цифры и положительные значения.')
     return int(d)
